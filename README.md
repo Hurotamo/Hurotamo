@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning RUST Lang and SOLIDITY<br>Web3 Enthusiasts, Blockchain Enthusiasts and Artificial Intelligence Enthusiasts<br>I'm doing trading for almost 1 year<br>
+I'm currently learning RUST Lang and SOLIDITY<br>Web3 Enthusiasts, Blockchain Enthusiasts and Artificial Intelligence Enthusiasts<br>I'm doing trading for almost 2 year<br>
 
 
 # 💻 Tech Stack:
